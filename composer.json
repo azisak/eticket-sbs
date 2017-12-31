@@ -1,0 +1,12 @@
+{
+    "name": "azisak/tiket-sbs",
+    "authors": [
+        {
+            "name": "Azis Adi Kuncoro",
+            "email": "azisadikuncoro@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdf": "^1.8"
+    }
+}
